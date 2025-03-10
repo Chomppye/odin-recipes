@@ -1,1 +1,1 @@
-# odin-recipes
+This project is a recipe website. Im going to be creating a website with various recipes in order to reinforce the knowledge ive learned in The Odin Project. I know some basic html which should make it possible for me to create a bare bones website. Once i complete this i should be able to confidently use the basics of html.
