@@ -1,7 +1,50 @@
 * {
-    background-color: gray;
+    background-color: #11151C;
 }
 
-.recipe {
-    display: block;
+#recipe-header {
+   text-align: center;
+   color: #EDF2F4;
 }
+
+.recipe-container {
+   background: #6C809A;
+   text-align: center;
+   width: 500px;
+   margin: 55px auto;
+   padding-bottom: 85px;
+   padding-top: 10px;
+}
+
+.lasagna-pic {
+   background: #6C809A;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   position: relative; right: 170px; bottom: 125px;
+}
+
+.noodle-pic {
+   background: #6C809A;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   position: relative; right: 65px; bottom: 175px;
+}
+
+.pizza-pic {
+   background: #6C809A;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   position: relative; right: -41px; bottom: 225px;
+}
+
+.cheeseburger-pic {
+   background: #6C809A;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   position: relative; right: -152px; bottom: 278px;
+}
+
